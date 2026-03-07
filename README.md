@@ -69,11 +69,3 @@ Key takeaway: although Logistic Regression edged out SVC on overall accuracy, SV
 ## Technical Stack
 
 `Python` `pandas` `NumPy` `matplotlib` `seaborn` `scikit-learn` `Flask`
-
-## Project Artifacts
-
-- [Primary notebook](Project%20%231%20Bank%20Marketing.ipynb)
-- [HTML export](Subscription%20Prediction.html)
-- [PDF report](Project%20%231%20Bank%20Marketing%20Report.pdf)
-- [Prototype inference app](flask_app.py)
-- [Dataset snapshot](bank-additional-full.csv)
