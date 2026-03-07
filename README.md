@@ -29,7 +29,7 @@ A supervised learning classification project that predicts whether a bank client
 | Dataset | 41,188 campaign records, 21 raw columns, `11.27%` positive class rate |
 | Selected model | `SVC` |
 | Best business-fit result | `0.68` precision on actual subscribers (`class 1`) |
-| Core skills shown | EDA, feature engineering, leakage prevention, model evaluation, deployment thinking |
+| Core skills | EDA, feature engineering, leakage prevention, model evaluation, deployment thinking |
 
 ## Overview
 
