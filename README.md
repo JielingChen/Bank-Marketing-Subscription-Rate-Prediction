@@ -62,10 +62,6 @@ Key takeaway: although Logistic Regression edged out SVC on overall accuracy, SV
 - Lower macroeconomic indicators were associated with higher subscription rates during the campaign period.
 - Clients with successful outcomes in previous campaigns were more likely to subscribe again.
 
-## Visual Highlights
-
-
-
 ## Technical Stack
 
 `Python` `pandas` `NumPy` `matplotlib` `seaborn` `scikit-learn` `Flask`
