@@ -43,7 +43,7 @@ A supervised learning classification project that predicts whether a bank client
 
 ## Results
 
-| Model | Test Accuracy | Precision on Subscribers (`class 1`) | Recall on Subscribers (`class 1`) |
+| Model | Test Accuracy | Precision on Subscribers | Recall on Subscribers |
 | --- | ---: | ---: | ---: |
 | Logistic Regression | 0.9005 | 0.67 | 0.23 |
 | SVC | 0.9001 | 0.68 | 0.21 |
